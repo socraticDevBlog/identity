@@ -6,7 +6,7 @@ how would you validate that claim?
 
 ## using cryptography and `gpg`
 
-### 1. download that public-key.asc file
+### 1. download that [public-key.asc](https://github.com/socraticDevBlog/identity/blob/main/public-key.asc) file
 
 ### 2. import it to your gpg keychain 
 
