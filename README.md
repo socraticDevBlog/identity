@@ -29,7 +29,7 @@ sub   rsa3072 2025-09-24 [E] [expires: 2026-09-24]
 
 only a signed message will prove that you really are talking to `socratic.dev`
 
-I will send you a signed message like the one in this repository (<message.asc>)
+I will send you a signed message like the one in this repository ([message.asc](https://raw.githubusercontent.com/socraticDevBlog/identity/refs/heads/main/message.asc))
 
 ### 5. verify the signature with gpg
 
